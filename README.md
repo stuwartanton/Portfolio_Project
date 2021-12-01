@@ -7,5 +7,5 @@ Data was imported into Microsoft SQL and data exploration was done. Finally, the
 
 
 
-Credits @AlexTheAnalyst Youtube Channel
-Thankful for this wonderful portfolio series.
+Credits @AlexTheAnalyst Youtube Channel.
+I am really thankful for this wonderful portfolio series.
